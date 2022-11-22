@@ -17,9 +17,8 @@ main {
   width: 100%;
   padding: 0 2rem;
   display: flex;
-  /* justify-content: space-between; */
   align-items: center;
-  gap: 2rem;
+  gap: 1rem;
 }
 
 section {
@@ -86,7 +85,7 @@ h4 {
   }
   section.chicken,
   section.beef {
-    width: 45%;
+    width: 49%;
   }
   section.sushi {
     width: 100%;
